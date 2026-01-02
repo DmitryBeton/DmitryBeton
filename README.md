@@ -9,8 +9,15 @@ I work mainly with **UIKit**, explore **SwiftUI**, and gradually dive into moder
 
 #### 📱 iOS Development
 - Swift, UIKit, CoreData  
-- Basic experience with SwiftUI and Combine  
-- Custom UI, local persistence, app architecture exploration  
+- UI development with **code & Storyboards (Xcode)**  
+- Architecture patterns: **MVC, MVP, MVVM**  
+- Dependency management: **CocoaPods, Swift Package Manager**  
+- Version control: **Git**  
+
+#### 🧩 Programming Principles
+- **OOP**  
+- **SOLID**, **DRY**, **KISS**  
+- Clean and maintainable code practices  
 
 #### 🎮 Game Development
 - Tried **vibe-coding games in Unity**
@@ -19,7 +26,7 @@ I work mainly with **UIKit**, explore **SwiftUI**, and gradually dive into moder
 
 #### 🐍 Backend & Web
 - Built several projects using **Python & Django**
-- Worked with basic backend logic, models, and REST-style architecture  
+- Worked with models, views, and basic backend logic  
 
 ---
 
@@ -29,11 +36,13 @@ I work mainly with **UIKit**, explore **SwiftUI**, and gradually dive into moder
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br><br>
 
 ---
 
 ### 📫 How to Reach Me
+- Telegram: `DmitryBeton`
 - Email: `dima41768@icloud.com`  
 - GitHub: [DmitryBeton](https://github.com/DmitryBeton)  
 
