@@ -9,6 +9,7 @@ I'm Dmitry, a software developer passionate about building apps and web solution
 <img align="left" alt="SwiftUI" width="26px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <br><br>
 
 ---
@@ -21,7 +22,12 @@ I'm Dmitry, a software developer passionate about building apps and web solution
 
 ### 🔭 Currently Working On
 - iOS applications with **custom UI** and **persistent data**  
-- Personal projects combining **Swift frontend** and **Python backend**  
+- Personal projects combining **Swift frontend** and **Python backend**
+  
+---
+
+### 🎮 Game Development
+I have experience **coding games in Unity** and **publishing them on Yandex.Games**, experimenting with game mechanics, graphics, and monetization.  
 
 ---
 
@@ -32,5 +38,8 @@ I'm Dmitry, a software developer passionate about building apps and web solution
 ---
 
 ### 📊 GitHub Stats
-![DmitryBeton GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryBeton&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBeton&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=DmitryBeton&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DmitryBeton&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBeton&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
