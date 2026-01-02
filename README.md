@@ -1,6 +1,25 @@
 ## Hi there 👋
 
-I'm Dmitry, a software developer passionate about building apps and web solutions using **Swift, UIKit, CoreData, Python, and Django**. I also experiment with **SwiftUI** and **Combine**.  
+I'm Dmitry — an **iOS native developer** focused on learning and building apps with **Swift**.
+I work mainly with **UIKit**, explore **SwiftUI**, and gradually dive into modern iOS approaches and architecture.
+
+---
+
+### 🧠 What I’ve Worked With
+
+#### 📱 iOS Development
+- Swift, UIKit, CoreData  
+- Basic experience with SwiftUI and Combine  
+- Custom UI, local persistence, app architecture exploration  
+
+#### 🎮 Game Development
+- Tried **vibe-coding games in Unity**
+- Published small projects on **Yandex.Games**
+- Experimented with gameplay mechanics and simple monetization  
+
+#### 🐍 Backend & Web
+- Built several projects using **Python & Django**
+- Worked with basic backend logic, models, and REST-style architecture  
 
 ---
 
@@ -14,23 +33,6 @@ I'm Dmitry, a software developer passionate about building apps and web solution
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **SwiftUI** & **Combine**  
-- New iOS frameworks and libraries  
-
----
-
-### 🔭 Currently Working On
-- iOS applications with **custom UI** and **persistent data**  
-- Personal projects combining **Swift frontend** and **Python backend**
-  
----
-
-### 🎮 Game Development
-I have experience **coding games in Unity** and **publishing them on Yandex.Games**, experimenting with game mechanics, graphics, and monetization.  
-
----
-
 ### 📫 How to Reach Me
 - Email: `dima41768@icloud.com`  
 - GitHub: [DmitryBeton](https://github.com/DmitryBeton)  
@@ -38,8 +40,6 @@ I have experience **coding games in Unity** and **publishing them on Yandex.Game
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DmitryBeton&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DmitryBeton&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBeton&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api?username=DmitryBeton&theme=onedark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=DmitryBeton&theme=onedark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBeton&theme=onedark&hide_border=true&layout=compact)
