@@ -17,7 +17,6 @@ I'm Dmitry, a software developer passionate about building apps and web solution
 
 ### 🌱 Currently Learning
 - Advanced **SwiftUI** & **Combine**  
-- More **backend architectures** in Django  
 - New iOS frameworks and libraries  
 
 ---
