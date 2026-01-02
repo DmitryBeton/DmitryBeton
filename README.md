@@ -6,8 +6,6 @@ I'm Dmitry, a software developer passionate about building apps and web solution
 
 ### 💻 Tech Stack
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="UIKit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Apple_UIKit_logo.svg" />
-<img align="left" alt="CoreData" width="26px" src="https://developer.apple.com/assets/elements/icons/core-data/core-data-96x96_2x.png" />
 <img align="left" alt="SwiftUI" width="26px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
