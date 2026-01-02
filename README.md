@@ -20,7 +20,7 @@ I work mainly with **UIKit**, explore **SwiftUI**, and gradually dive into moder
 - Clean and maintainable code practices  
 
 #### 🎮 Game Development
-- Tried **vibe-coding games in Unity**
+- Tried **vibe-coding games in Unity** (C#)
 - Published small projects on **Yandex.Games**
 - Experimented with gameplay mechanics and simple monetization  
 
