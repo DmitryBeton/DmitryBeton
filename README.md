@@ -28,6 +28,9 @@ I work mainly with **UIKit**, explore **SwiftUI**, and gradually dive into moder
 - Built several projects using **Python & Django**
 - Worked with models, views, and basic backend logic  
 
+#### 👨‍🏫 LeetCode
+![](https://leetcard.jacoblin.cool/DmitryBeton?ext=heatmap)
+
 ---
 
 ### 💻 Tech Stack
